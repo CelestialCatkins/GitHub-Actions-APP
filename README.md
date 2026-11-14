@@ -1,6 +1,8 @@
+**简体中文** · [English](./README.en.md)
+
 # Loom Build
 
-把手机里的一个 Android 项目，交给 GitHub Actions 编译成 APK —— 全程不必开电脑。
+把手机里的一个 Android 项目交给 GitHub Actions 编译成 APK——全程不必开电脑。
 
 界面沿用 [Loom](https://github.com/CelestialCatkins/Loom) 的视觉体系：稿纸 / 墨 / 单一铜色，衬线标题、等宽标识、发线分隔。
 
