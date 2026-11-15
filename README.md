@@ -1,6 +1,6 @@
 **简体中文** · [English](./README.en.md)
 
-# Loom Build
+# GitHub-Actions-APP
 
 把手机里的一个 Android 项目交给 GitHub Actions 编译成 APK——全程不必开电脑。
 
